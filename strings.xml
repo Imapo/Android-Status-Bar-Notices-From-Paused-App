@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Motivational quote for the Day</string>
+    <string name="quote_1">Every day is a new opportunity to be better than yesterday.</string>
+    <string name="quote_2">Don’t fear mistakes – fear inaction.</string>
+    <string name="quote_3">Only you decide what comes next.</string>
+    <string name="quote_4">Challenges are stepping stones to victories.</string>
+    <string name="quote_5">Success loves those who never give up.</string>
+    <string name="quote_6">It’s never too late to start over.</string>
+    <string name="quote_7">You are stronger than you think.</string>
+    <string name="quote_8">Great things start with small steps.</string>
+    <string name="quote_9">Doubt kills more dreams than failure ever will.</string>
+    <string name="quote_10">If not now, then when?</string>
+    <string name="quote_11">Every morning is a chance to change your life.</string>
+    <string name="quote_12">Obstacles are temporary; achievements are eternal.</string>
+    <string name="quote_13">Act as if failure is not an option.</string>
+    <string name="quote_14">Your potential is limitless.</string>
+    <string name="quote_15">Believe in yourself, even if others doubt you.</string>
+    <string name="quote_16">Victory begins with belief in success.</string>
+    <string name="quote_17">Every effort is a step closer to your goal.</string>
+    <string name="quote_18">Dreams work when you do.</string>
+    <string name="quote_19">You are the architect of your destiny.</string>
+    <string name="quote_20">The road to success starts with the first step.</string>
+    <string name="change_quote">Show another quote</string>
+    <string name="quote_of_day">Quote of the day</string>
+</resources>
